@@ -1,0 +1,32 @@
+
+.back{
+    background-image: url('../assets/image20.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    /* object-fit: cover; */
+}
+#bg1{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#bg2{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#bg3{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#bg4{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#bg5{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+}
+#bg6{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#about{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.add{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px;
+}   
